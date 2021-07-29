@@ -16,7 +16,6 @@ Want to see more of my work? **Check out my website: [nicolasenne.co](https://ni
 
 ##
 
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nicolasenne)](https://github.com/nicolasenne)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolasenne/)](https://www.linkedin.com/in/nicolasenne/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nicolasenne)](https://twitter.com/nicolasenne)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nicolasenne/)](https://www.instagram.com/nicolasenne/)
