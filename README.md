@@ -1,6 +1,6 @@
 # [![nicolas enne header](https://raw.githubusercontent.com/nicolasenne/nicolasenne/main/images/main-banner.png)](https://nicolasenne.co)
 
- **💻 Front-end Developer** | **🎨 Designer** | **🎓 Teacher Assistant at [@Le Wagon](https://www.lewagon.com/)**
+ **💻 Front-end Developer** | **🎨 Designer** | **🎓 Teacher at [@Le Wagon](https://www.lewagon.com/)**
 
 > I'm a highly creative and committed professional who's capable of thinking both visually & analytically and who can establish brand identities, create visual designs and make responsive websites.
 >
